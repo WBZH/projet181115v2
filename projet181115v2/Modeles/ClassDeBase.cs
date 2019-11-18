@@ -24,5 +24,5 @@ namespace projet181115v2.Modeles
         #region Methodes
 
         #endregion
-        }
     }
+}
